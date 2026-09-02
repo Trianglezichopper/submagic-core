@@ -31,4 +31,4 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 
 ## ⚠️ Disclaimer
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners.                      
+> For personal, lawful use only. Trademarks are the property of their owners.                       
